@@ -1,0 +1,32 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Racing Club",
+      "publisher": "Elvis Mancilla",
+      "tray_image_file": "stickerescudo1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "lichalopezsticker1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "stickerescudo1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "stickerprimercampeon.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    }
+  ]
+}
